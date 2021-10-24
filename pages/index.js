@@ -4,10 +4,22 @@ import Image from 'next/image'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 import perfil from '../public/marcia-perfil.jpg'
+import caminhando from '../public/caminhando.jpg'
+import wpp from '../public/whatsapp.png'
 
 export default function Home() {
   return (
     <Layout pageTitle="Circuito da Coragem" pageDescription="Mentoria individual" headerImage={banner}>
+
+      <section className="bodySection apresentacaoBlock">
+        <iframe className="apresentacao" src="https://www.youtube.com/embed/o4jgv-2W_ks" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-writeF enSrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div className="buttonGroup">
+            <a href="https://chat.whatsapp.com/FUHCL3l5VV7LbXLOHTNWot" className="btn chamadaBtn">
+              <Image width={16} height={16} src={wpp} alt="Ícone whatsapp"/>
+              <span> Junte-se ao grupo</span>
+            </a>
+        </div>            
+      </section>
 
       {/* CHAMADA */}
       <section className="bodySection">
@@ -16,7 +28,7 @@ export default function Home() {
       </section>
 
       {/* CIRCUITO DA CORAGEM */}
-      <section className="bodySection">
+      <section className="bodySection backgroundA">
         <h2>CIRCUITO DA CORAGEM?</h2>
 
         <p>É uma metodologia que tem como objetivo trabalhar o músculo da coragem das pessoas que estão vivenciado um processo de transição na profissão, ajudado-as a fortalecer a sua vontade para que tenham condição de assumir o compromisso com mudanças de posturas para seguir em frente.</p>
@@ -27,7 +39,7 @@ export default function Home() {
       </section>
 
       {/* PARA QUEM É DESTINADO ESSE GRUPO */}
-      <section className="bodySection">
+      <section className="bodySection backgroundB">
         <h2>PARA QUEM É DESTINADO ESSE GRUPO</h2>
 
         <p>Para as pessoas que estão em crise sentindo ansiedade, um certo cansaço emocional, desanimadas, e com um sentimento de incapacidade mas, ao mesmo tempo acreditam na mudança e estão cansados de viver nesse limbo. </p>
@@ -68,7 +80,7 @@ export default function Home() {
         <p>Se você aceitar esse convite de corpo e alma, muitas mudanças acontecerão.</p>
 
         <p>Meu papel com você é te ajudar a trabalhar o músculo da coragem e te convidar sempre a dar o próximo passo, e o seu é começar a agir e confiar no processo.</p>
-      </section>      
+      </section>
 
       {/* O IMPOSSÍVEL PODE ACONTECER */}      
       <section className="bodySection">
@@ -84,11 +96,16 @@ export default function Home() {
 
         <p>Essa é a verdadeira missão que deveríamos alcançar! Profissão, tem em qualquer lugar, mas sem amor no coração, nada tem valor, a crise vai continuar. Que possamos nos fortalecer e deixar crescer em nós esse desejo genuíno de florescer, sendo a própria vida em movimento para aprendermos a acolher tudo que está acontecendo agora, olhando para a resistência, e soltando qualquer dor ou dificuldade que nos impede de abraçar a vida. Esse é o maior desafio da nossa existência. Ainda não sabemos viver assim.</p>
 
-        <h3>Hoje, o convite é SEGUIR!</h3>
-      </section>       
+        <h3 style={{textAlign: "center"}}>Hoje, o convite é SEGUIR!</h3>
+        <div className="d-flex flex-column justify-content-center align-items-center">
+        <div className="marciaOportunidade">
+            <Image className="marciaOportunidade" src={caminhando} alt="Foto Márcia Cipriano" />
+        </div>
+        </div>
+      </section>
 
       {/* ETAPAS */}
-      <section className="bodySection">
+      <section className="bodySection backgroundB">
         <h2>Primeira etapa – A coragem para iniciar uma nova jornada.</h2>
 
         <p>“Do jeito que está não dá para ficar”</p>
@@ -102,7 +119,8 @@ export default function Home() {
           <li>Perceber o ciclo da insegurança que te oprimem e te fazem paralisar.</li>
           <li>Criar novos hábitos para interromper o processo de procrastinação.</li>
         </ol>
-
+      </section>
+      <section className="bodySection backgroundA">
 
         <h2>Segunda etapa – A coragem para se recriar.</h2>
 
@@ -117,6 +135,8 @@ export default function Home() {
           <li>Criar um repertorio novo.</li>
           <li>Definindo a rota-Para onde, como e para quê?</li>
         </ol>
+      </section>
+      <section className="bodySection backgroundB">
 
         <h2>Terceira etapa – A coragem para seguir em frente e não desistir</h2>
 
@@ -136,12 +156,22 @@ export default function Home() {
       </section>      
 
       {/* DEPOIMENTOS */}
-
-
+      <section className="bodySection">
+        <h2>Depoimentos:</h2>
+          <div className="depoimentoCol">
+              <iframe className="depoimentos" src="https://player.vimeo.com/video/582183115?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen title="depoimento1.mp4"></iframe>
+          </div>
+          <div className="depoimentoCol">
+              <iframe className="depoimentos" src="https://player.vimeo.com/video/582184138?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen title="Depoimento Rebeca"></iframe>
+          </div>
+          <div className="depoimentoCol">
+              <iframe className="depoimentos" src="https://player.vimeo.com/video/582184211?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen title="depoimento3"></iframe>
+          </div>
+      </section>
       
       {/* INVESTIMENTO */}
       <section className="bodySection">
-        <p>2.940,00</p>
+        {/* <p>2.940,00</p> */}
       </section>
 
       {/* MÁRCIA CIPRIANO */}
