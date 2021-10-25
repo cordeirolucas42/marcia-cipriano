@@ -12,7 +12,7 @@ export default function Home() {
     <Layout pageTitle="Circuito da Coragem" pageDescription="Mentoria individual" headerImage={banner}>
 
       <section className="bodySection apresentacaoBlock">
-        <iframe className="apresentacao" src="https://www.youtube.com/embed/o4jgv-2W_ks" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-writeF enSrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe className="apresentacao" src="https://www.youtube.com/embed/o4jgv-2W_ks" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-writeF enSrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         <div className="buttonGroup">
             <a href="https://chat.whatsapp.com/FUHCL3l5VV7LbXLOHTNWot" className="btn chamadaBtn">
               <Image width={16} height={16} src={wpp} alt="Ícone whatsapp"/>
