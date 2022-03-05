@@ -14,17 +14,19 @@ export default function Home() {
       <section className="bodySection apresentacaoBlock">
         <iframe className="apresentacao" src="https://www.youtube.com/embed/o4jgv-2W_ks" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-writeF enSrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         <div className="buttonGroup">
-            <a href="https://chat.whatsapp.com/FUHCL3l5VV7LbXLOHTNWot" className="btn chamadaBtn">
+            <a href="https://wa.me/5585996380213" className="btn chamadaBtn">
               <Image width={16} height={16} src={wpp} alt="Ícone whatsapp"/>
               <span> Junte-se ao grupo</span>
             </a>
-        </div>            
+        </div>
       </section>
 
       {/* CHAMADA */}
       <section className="bodySection">
         <p>Qual é a coisa mais importante para você nesse momento? E o que você tem feito por isso?</p>
         <p>Eu te convido a beber de novas águas! Dizer SIM para a VIDA!</p>
+        <h3>Você tem sede de quê?</h3>
+        <br />
       </section>
 
       {/* CIRCUITO DA CORAGEM */}
@@ -33,20 +35,18 @@ export default function Home() {
 
         <p>É uma metodologia que tem como objetivo trabalhar o músculo da coragem das pessoas que estão vivenciado um processo de transição na profissão, ajudado-as a fortalecer a sua vontade para que tenham condição de assumir o compromisso com mudanças de posturas para seguir em frente.</p>
 
-        <p>Serão 12 encontros online de 90 minutos para desenvolver a coragem para ousar e conquistar seu “lugar ao sol” despertando o entusiamo e evocando a determinação e a predisposição para a ação, arriscando-se em novos empreendimentos.</p>
+        <p>Serão 30 dias de desafios dedicados a você, em um grupo do WhatsApp, para desenvolver a coragem para ousar e conquistar seu “lugar ao sol”, despertando o entusiamo e evocando a determinação e a predisposição para a ação, arriscando-se em novos empreendimentos.</p>
 
         <p>Vamos nos abrir para um novo ciclo, e para isso eu te convido a trabalhar o músculo da coragem para cuidar do mais precioso que é a sua VIDA!</p>
       </section>
 
       {/* PARA QUEM É DESTINADO ESSE GRUPO */}
       <section className="bodySection backgroundB">
-        <h2>PARA QUEM É DESTINADO ESSE GRUPO</h2>
+        <h2>PARA QUEM É DESTINADO ESSE GRUPO?</h2>
 
-        <p>Para as pessoas que estão em crise sentindo ansiedade, um certo cansaço emocional, desanimadas, e com um sentimento de incapacidade mas, ao mesmo tempo acreditam na mudança e estão cansados de viver nesse limbo. </p>
+        <p>Para as pessoas que estão em crise, sentindo ansiedade, um certo cansaço emocional, desanimadas e com um sentimento de incapacidade mas, ao mesmo tempo, acreditam na mudança e estão cansados de viver nesse limbo.</p>
 
         <p>E o convite é para que você pare de duvidar e APRENDA A NÃO DESISTIR do que você verdadeiramente quer, e assim possa dar o PRÓXIMO PASSO e SEGUIR em frente.</p>
-
-        <h3>Você tem sede de quê?</h3>
       </section>
 
       {/* CHEGA DE PROCRASTINAR */}
@@ -55,47 +55,23 @@ export default function Home() {
 
         <p>Vamos iniciar com micropassos até que você possa dar um salto, cuidando da autorregulação, sem desanimar, e chegando ao fim mais fortalecido para seguir em frente.</p>
 
-        <p>Essa Mentoria funcionará como um campo de nutrição e suporte para que você possa avançar em novas realidades. Criaremos um ambiente propício para que as coisas aconteçam com dinamismo e respeito ao seu processo.</p>
+        <p>Essa Mentoria funcionará como um campo de nutrição e suporte para que você possa avançar em novas realidades. Criaremos um ambiente propício para que as coisas aconteçam com dinamismo e respeito ao seu processo. A progressividade e a autorregulação serão categorias que estarão sempre presentes. Cada pessoa tem o seu ritmo e a sua vontade, suas dores e seus recursos que lhe são peculiares. Estarei sempre te convidando para que não desista, para que você tire o pé do freio e não se paralise mais nessa transição.</p>
 
-        <p>A progressividade e a autorregulação serão categorias que farão parte do processo. Cada pessoa tem o seu ritmo e a sua vontade, suas dores e seus recursos que lhe são peculiar. Estarei sempre te convidando para que não desista, para que você tire o pé do freio e não se paralise mais nessa transição.</p>
+        <p>Com estratégias bem definidas e de forma assertiva, vamos encontrando novas alternativas para os problemas que surgirão, nos capacitando a seguir em frente. Perder-se não é o problema, o problema é não se reencontrar. A maior promessa para esse trabalho é que eu não vou medir esforços para te oferecer tudo que você precisa para assumir de forma corajosa e comprometida essa caminhada. Terá todo o meu apoio. Por ser uma caminhante mais experiente, com mais de vinte anos facilitando processos terapêuticos, eu posso ser seu suporte nessa trilha para que você vivencie essa transição com um pouco mais de segurança e menos desconforto.</p>
+        <br />
+        <h3>A proposta é quebrar a procrastinação e trocar a preocupação por um contínuo trabalho em ação.</h3>
 
-        <p>Com estratégias bem definidas e de forma assertiva vamos encontrando novas alternativas para os problemas que surgirão, nos capacitando para seguir em frente. “perder-se não é o problema, o problema é não se reencontrar”.</p>
+        <p>Mas não esqueça que grande parte do processo depende de você mesmo. Olhar para dentro de si é a tarefa mais importante da nossa vida e a melhor referência para nos conectarmos com o que verdadeiramente nos falta. Se você estiver aberto a receber todo o suporte e realizar todas as tarefas e desafios propostos, com certeza você irá desapegar de muitas "tralhas" que você carrega e não te servem mais, e que estão servindo como forças restritivas, te impedindo de vivenciar essa transição com mais coragem.</p>
 
-        <p>A maior promessa para esse trabalho é que eu não vou medir esforços para te oferecer tudo que você precisar para assumir de forma corajosa e comprometida essa caminhada.</p>
-
-        <p>Terá todo o meu apoio. Por ser uma caminhante mais experiente com mais de vinte anos facilitando processos terapêuticos, eu posso ser teu suporte para te auxiliar nessa trilha para que você vivencie essa transição com um pouco mais de segurança e menos desconforto.</p>
-
-        <p>Mas, não esqueça que grande parte do processo depende de você mesmo. Olhar para dentro de si, é a tarefa mais importante da nossa vida e a melhor referência para nos conectarmos com o que verdadeiramente nos falta.</p>
-
-        <p>Se você tiver aberto a receber todo o suporte e realizar todas as tarefas e desafios propostos, com certeza, você irá desapegar de muitas tralhas que você carrega e não te servem mais, e que estão servindo como forças restritivas te impedindo de vivenciar essa transição com mais coragem.</p>
-
-        <p>Descartando esse excesso, você poderá começar a avançar criando novas oportunidades em comunhão com a vida, aceitando a vulnerabilidade, se reorientando, se determinando e explorando novos caminhos apesar do medo.</p>
-
-        <p>A proposta é quebrar a procrastinação e trocar a preocupação por um contínuo trabalho em ação.</p> 
-
-        <p>Mesmo que a confiança oscile e o pensamento negativo nos visite, vamos ser congruentes com os nossos princípios, objetivos e com bravura e perseverança vamos nos arriscando. </p>
-
-        <p>Quanto mais nos comprometermos, mais aumentará a nossa intimidade e fé nessa força interior. E é essa força que nos dará a energia que precisamos para criarmos uma nova direção.</p>
+        <p>Descartando esse excesso, você poderá começar a avançar, criando novas oportunidades em comunhão com a vida, aceitando a vulnerabilidade, se reorientando, se determinando e explorando novos caminhos apesar do medo. Mesmo que a confiança oscile e o pensamento negativo nos visite, vamos ser congruentes com os nossos princípios, objetivos e com bravura e perseverança vamos nos arriscando. Quanto mais nos comprometermos, mais aumentará a nossa intimidade e fé nessa força interior. E é essa força que nos dará a energia que precisamos para criarmos uma nova direção.</p>
 
         <p>Se você aceitar esse convite de corpo e alma, muitas mudanças acontecerão.</p>
 
-        <p>Meu papel com você é te ajudar a trabalhar o músculo da coragem e te convidar sempre a dar o próximo passo, e o seu é começar a agir e confiar no processo.</p>
+        <p>Meu papel nessa jornada é te ajudar a trabalhar o músculo da coragem e te convidar sempre a dar o próximo passo, e o seu é começar a agir e confiar no processo.</p>
       </section>
 
-      {/* O IMPOSSÍVEL PODE ACONTECER */}      
+      {/* HOJE O CONVITE É SEGUIR */}      
       <section className="bodySection">
-        <h2>O IMPOSSÍVEL PODE ACONTECER</h2>
-
-        <p>Se dê essa chance e você verá que um novo caminho vai se abrir. Aceite o desafio e você vai descobrir todo um potencial de ação que mora no seu coração.</p>
-
-        <p>E essa é a jornada que vamos percorrer nesse circuito. A partir dessa vinculação com a vida é que você vai deixando de dar poder ao mundo externo, para dar lugar a mudanças fundamentais que vão gerar grandes aprendizagens para que você descubra o que verdadeiramente é essencial na sua vida.</p>
-
-        <p>A proposta é dá atenção ao que a vida está te pedindo agora e fazer um caminhar com determinação (foto- o texto dentro da foto)</p>
-
-        <p>Vamos decidir dar o próximo passo, e depois o próximo até a resposta final chegar e esta gestalt se fechar. Nada é eterno, essa dor, esse medo precisa acabar e o amor tomar o seu lugar.</p>
-
-        <p>Essa é a verdadeira missão que deveríamos alcançar! Profissão, tem em qualquer lugar, mas sem amor no coração, nada tem valor, a crise vai continuar. Que possamos nos fortalecer e deixar crescer em nós esse desejo genuíno de florescer, sendo a própria vida em movimento para aprendermos a acolher tudo que está acontecendo agora, olhando para a resistência, e soltando qualquer dor ou dificuldade que nos impede de abraçar a vida. Esse é o maior desafio da nossa existência. Ainda não sabemos viver assim.</p>
-
         <h3 style={{textAlign: "center"}}>Hoje, o convite é SEGUIR!</h3>
         <div className="d-flex flex-column justify-content-center align-items-center">
         <div className="marciaOportunidade">
@@ -153,7 +129,22 @@ export default function Home() {
         </ol>
 
         <p>Seja corajosos se o medo chegar, e ele vai chegar, olhe para ele, acolha e siga o caminho do coração.</p>
-      </section>      
+      </section>
+
+      {/* O IMPOSSÍVEL PODE ACONTECER */}
+      <section className="bodySection">
+        <h2>O IMPOSSÍVEL PODE ACONTECER!</h2>
+
+        <p>Se dê essa chance e você verá que um novo caminho vai se abrir. Aceite o desafio e você vai descobrir todo um potencial de ação que mora no seu coração.</p>
+
+        <p>E essa é a jornada que vamos percorrer nesse circuito. A partir dessa vinculação com a vida é que você vai deixando de dar poder ao mundo externo, para dar lugar a mudanças fundamentais que vão gerar grandes aprendizagens para que você descubra o que verdadeiramente é essencial na sua vida.</p>
+
+        <p>A proposta é dar atenção ao que a vida está te pedindo agora e fazer um caminhar com determinação</p>
+
+        <p>Vamos decidir dar o próximo passo, e depois o próximo, até a resposta final chegar e esta gestalt se fechar. Nada é eterno, essa dor, esse medo precisa acabar e o amor tomar o seu lugar.</p>
+
+        <p>Essa é a verdadeira missão que deveríamos alcançar! Profissão, tem em qualquer lugar, mas sem amor no coração, nada tem valor, a crise vai continuar. Que possamos nos fortalecer e deixar crescer em nós esse desejo genuíno de florescer, sendo a própria vida em movimento para aprendermos a acolher tudo que está acontecendo agora, olhando para a resistência, e soltando qualquer dor ou dificuldade que nos impede de abraçar a vida. Esse é o maior desafio da nossa existência. Ainda não sabemos viver assim.</p>
+      </section>
 
       {/* DEPOIMENTOS */}
       <section className="bodySection">
@@ -170,8 +161,16 @@ export default function Home() {
       </section>
       
       {/* INVESTIMENTO */}
-      <section className="bodySection">
-        {/* <p>2.940,00</p> */}
+      <section className="bodySection backgroundA">
+        <div className="precoDiv">
+          <h1>Investimento</h1>
+          <div className="precoBox">
+            <p className="preco1">Apenas:</p>
+            <p className="preco2">R$ 122,00</p>
+          </div>
+          <div style={{clear:"both"}}></div>
+          <a href="https://wa.me/5585996380213" className="grupoBtn"><Image width="20px" height="20px" style={{margin: "2px 6px 4px 2px"}} src={wpp} alt="Ícone whatsapp"></Image><span>Inscreva-se!</span></a>
+        </div>
       </section>
 
       {/* MÁRCIA CIPRIANO */}
