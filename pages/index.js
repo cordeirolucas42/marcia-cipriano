@@ -19,7 +19,7 @@ export default function Home() {
       </section>
 
       {/* CHAMADA */}
-      <section className="bodySection">
+      <section className="bodySection"> {/* todo em negrito */}
         <p>Qual é a coisa mais importante para você nesse momento? E o que você tem feito por isso?</p>
         <p>Eu te convido a beber de novas águas! Dizer SIM para a VIDA!</p>
         <h3>Você tem sede de quê?</h3>
@@ -50,14 +50,9 @@ export default function Home() {
       <section className="bodySection">
         <h2>CHEGA DE PROCRASTINAR</h2>
 
-
         <p>Essa IMERSÃO funcionará como um campo de nutrição e suporte para que você possa avançar em novas realidades. Criaremos um ambiente propício para que as coisas aconteçam com dinamismo e respeito ao seu processo. A progressividade e a autorregulação serão categorias que estarão sempre presentes. Cada pessoa tem o seu ritmo e a sua vontade, suas dores e seus recursos que lhe são peculiares. Estarei  te convidando para que não desista, para que você tire o pé do freio e não se paralise mais nessa transição.</p>
 
-        <p>Com estratégias bem definidas e de forma assertiva, vamos encontrar novas alternativas para os problemas que surgirão, nos capacitando a seguir em frente. Perder-se não é o problema, o problema é não se reencontrar. A maior promessa para esse trabalho é que eu não vou medir esforços para te oferecer tudo que você precisa para assumir de forma corajosa e comprometida essa caminhada. Terá todo o meu apoio. Por ser uma caminhante mais experiente, com mais de vinte anos facilitando processos terapêuticos, eu posso ser seu suporte nessa trilha para que você vivencie essa transição com um pouco mais de segurança e menos desconforto.</p>
-        <br />
-        <h3></h3>
-
-        <p>Mas não esqueça que grande parte do processo depende de você mesmo. Olhar para dentro de si é a tarefa mais importante da nossa vida e a melhor referência para nos conectarmos com o que verdadeiramente nos falta. Se você estiver aberto a receber todo o suporte e participar das viências e desafios propostos, com certeza você irá desapegar de muitas "tralhas" que você carrega e não te servem mais, e que estão servindo como forças restritivas, te impedindo de vivenciar essa transição com mais coragem.</p>
+        <p>Por ser uma caminhante mais experiente, com mais de vinte anos facilitando processos terapêuticos, eu posso ser seu suporte nessa trilha para que você vivencie essa transição com um pouco mais de segurança e menos desconforto. Mas não esqueça que grande parte do processo depende de você mesmo. Olhar para dentro de si é a tarefa mais importante da nossa vida e a melhor referência para nos conectarmos com o que verdadeiramente nos falta. Se você estiver aberto a receber todo o suporte e participar das vivências e desafios propostos, com certeza você irá desapegar de muitas "tralhas" que você carrega e não te servem mais, e que estão servindo como forças restritivas, te impedindo de vivenciar essa transição com mais coragem.</p>
 
         <p>Descartando esse excesso, você poderá começar a avançar, criando novas oportunidades em comunhão com a vida, aceitando a vulnerabilidade, se reorientando, se determinando e explorando novos caminhos apesar do medo. Mesmo que a confiança oscile e o pensamento negativo nos visite, vamos ser congruentes com os nossos princípios, objetivos e com bravura e perseverança vamos nos arriscando. Quanto mais nos comprometermos, mais aumentará a nossa intimidade e fé nessa força interior. E é essa força que nos dará a energia que precisamos para criarmos uma nova direção.</p>
 
@@ -105,21 +100,21 @@ export default function Home() {
           <li>Aprender a encarar o medo de errar para se lançar em novas oportunidades.</li>
           <li>Romper com uma imagem idealizada para restaurar sua autoestima.</li>
           <li>Criar um repertorio novo.</li>
-          <li>Definindo a rota-Para onde, como e para quê?</li>
+          <li>Definindo a rota: para onde, como e para quê?</li>
         </ol>
       </section>
       <section className="bodySection backgroundB">
 
-        <h2>Terceira etapa – VÍNCULO: A coragem para seguir em frente, comprometido com a visa.  r</h2>
+        <h2>Terceira etapa – VÍNCULO: A coragem para seguir em frente, comprometido com a vida.</h2>
 
         <p>“Sinto-me conectado com a vida”</p>
 
         <p>Intenção: Desenvolver a coragem para não desistir e seguir em frente reconhecendo a necessidade do momento, se conectando com o seu projeto e com a sua força, determinação e alegria de viver.</p>
 
         <ol>
-          <li>Visão ampla e foco aguçado– qual é a prioridade agora?</li>
-          <li>Criar uma rede de apoio para dias desafiadores. </li>
-          <li>Empreendimento de tarefas – colocando em ação a sua vontade.</li>
+          <li>Visão ampla e foco aguçado: qual é a prioridade agora?</li>
+          <li>Criar uma rede de apoio para dias desafiadores.</li>
+          <li>Empreendimento de tarefas: colocando em ação a sua vontade.</li>
           <li>Aprender a lidar com as armadilhas que impedem a sua jornada.</li>
           <li>Celebrar cada ato de realização.</li>
         </ol>
@@ -139,7 +134,7 @@ export default function Home() {
 
         <p></p>
 
-        <p>Essa é a verdadeira missão que deveríamos alcançar! Que possamos nos fortalecer e deixar crescer em nós esse desejo genuíno de florescer, sendo a própria vida em movimento para aprendermos a acolher tudo que está acontecendo agora, olhando para a resistência, e soltando qualquer dor ou dificuldade que nos impede de abraçar a vida. Esse é o maior desafio da nossa existência. .</p>
+        <p>Essa é a verdadeira missão que deveríamos alcançar! Que possamos nos fortalecer e deixar crescer em nós esse desejo genuíno de florescer, sendo a própria vida em movimento para aprendermos a acolher tudo que está acontecendo agora, olhando para a resistência, e soltando qualquer dor ou dificuldade que nos impede de abraçar a vida. Esse é o maior desafio da nossa existência.</p>
       </section>
 
       {/* DEPOIMENTOS */}
