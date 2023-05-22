@@ -13,11 +13,8 @@ export default function Home() {
 
       <section className="bodySection apresentacaoBlock">
         <iframe className="apresentacao" src="https://www.youtube.com/embed/o4jgv-2W_ks" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-writeF enSrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <div className="buttonGroup">
-          <a href="https://wa.me/5585996380213" className="btn chamadaBtn">
-            <Image width={16} height={16} src={wpp} alt="Ícone whatsapp" />
-            <span> Junte-se ao grupo</span>
-          </a>
+        <div className="buttonGroup">          
+        <a href="https://wa.me/5585996380213" className="grupoBtn"><Image width="20px" height="20px" style={{ margin: "2px 6px 4px 2px" }} src={wpp} alt="Ícone whatsapp"></Image><span>Inscreva-se!</span></a>
         </div>
       </section>
 
@@ -51,7 +48,7 @@ export default function Home() {
 
       {/* CHEGA DE PROCRASTINAR */}
       <section className="bodySection">
-        <h2>CHEGA DE PROCRASTINAR (Foto)</h2>
+        <h2>CHEGA DE PROCRASTINAR</h2>
 
 
         <p>Essa IMERSÃO funcionará como um campo de nutrição e suporte para que você possa avançar em novas realidades. Criaremos um ambiente propício para que as coisas aconteçam com dinamismo e respeito ao seu processo. A progressividade e a autorregulação serão categorias que estarão sempre presentes. Cada pessoa tem o seu ritmo e a sua vontade, suas dores e seus recursos que lhe são peculiares. Estarei  te convidando para que não desista, para que você tire o pé do freio e não se paralise mais nessa transição.</p>
@@ -81,7 +78,7 @@ export default function Home() {
 
       {/* ETAPAS */}
       <section className="bodySection backgroundB">
-        <h2>Primeira etapa – VITALIDADE-A coragem para iniciar uma nova jornada.</h2>
+        <h2>Primeira etapa – VITALIDADE: A coragem para iniciar uma nova jornada.</h2>
 
         <p>“Do jeito que está não dá para ficar”</p>
 
@@ -97,7 +94,7 @@ export default function Home() {
       </section>
       <section className="bodySection backgroundA">
 
-        <h2>Segunda etapa – VALOR -A coragem para se recriar.</h2>
+        <h2>Segunda etapa – VALOR: A coragem para se recriar.</h2>
 
         <p>“O impossível pode acontecer”</p>
 
@@ -113,7 +110,7 @@ export default function Home() {
       </section>
       <section className="bodySection backgroundB">
 
-        <h2>Terceira etapa – VÍNCULO - A coragem para seguir em frente, comprometido com a visa.  r</h2>
+        <h2>Terceira etapa – VÍNCULO: A coragem para seguir em frente, comprometido com a visa.  r</h2>
 
         <p>“Sinto-me conectado com a vida”</p>
 
