@@ -32,7 +32,7 @@ export default function Home() {
 
         <p>É uma metodologia que tem como objetivo trabalhar o músculo da coragem das pessoas que estão vivenciado um processo de transição na vida afetiva ou profissional, ajudado-as a fortalecer a sua vontade para que tenham condição de assumir o compromisso com mudanças de posturas para seguir em frente.</p>
 
-        <p>Serão 16 dias  dedicados a você, uma imersão para desenvolver a coragem para ousar, despertando o entusiamo e evocando a determinação e a predisposição para a ação. </p>
+        <p>Serão 16 horas dedicados a você, uma imersão para desenvolver a coragem para ousar, despertando o entusiamo e evocando a determinação e a predisposição para a ação. </p>
 
         <p>Vamos nos abrir para um novo ciclo, e para isso eu te convido a trabalhar o músculo da coragem para cuidar do mais precioso que é a sua VIDA!</p>
       </section>
