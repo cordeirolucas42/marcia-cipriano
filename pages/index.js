@@ -14,7 +14,10 @@ export default function Home() {
       <section className="bodySection apresentacaoBlock">
         <iframe className="apresentacao" src="https://www.youtube.com/embed/o4jgv-2W_ks" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-writeF enSrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         <div className="buttonGroup">          
-        <a href="https://wa.me/5585996380213" className="grupoBtn"><Image width="20px" height="20px" style={{ margin: "2px 6px 4px 2px" }} src={wpp} alt="Ícone whatsapp"></Image><span>Inscreva-se!</span></a>
+        <a href="https://wa.me/5585996380213" className="chamadaBtn">
+          <Image width="20px" height="20px" style={{ margin: "2px 6px 4px 2px" }} src={wpp} alt="Ícone whatsapp"></Image>
+          <span>Inscreva-se!</span>
+        </a>
         </div>
       </section>
 
@@ -95,10 +98,8 @@ export default function Home() {
         <h2>METODOLOGIAS E TÉCNICAS DE APRENDIZAGEM</h2>
         
         <p>Aplicação de um teste de personalidade, estudo de caso, Role-playing, feedback, vivências biocêntricas, visualizações criativas, exposição dialogada, seminários, mentoring, meditação, aprendizagem colaborativa.</p>
-      </section>
 
       {/* SOBRE O MÉTODO DO MÚSCULO DA CORAGEM */}
-      <section className="bodySection backgroundA">
         <h2>SOBRE O MÉTODO DO MÚSCULO DA CORAGEM</h2>
         
         <p>É baseado nas abordagens da Psicologia de base Humanista, no Pensamento Sistêmico e na Biodança e no Eneagrama.</p>
@@ -190,7 +191,7 @@ export default function Home() {
             <p className="preco2">R$ 580,00</p>
           </div>
           <div style={{ clear: "both" }}></div>
-          <a href="https://wa.me/5585996380213" className="grupoBtn"><Image width="20px" height="20px" style={{ margin: "2px 6px 4px 2px" }} src={wpp} alt="Ícone whatsapp"></Image><span>Inscreva-se!</span></a>
+          <a href="https://wa.me/5585996380213" className="chamadaBtn"><Image width="20px" height="20px" style={{ margin: "2px 6px 4px 2px" }} src={wpp} alt="Ícone whatsapp"></Image><span>Inscreva-se!</span></a>
           <p>Acesso a plataforma online: você terá acesso a todo conteúdo do treinamento, incluindo vídeo aulas, matérias complementares, atividades práticas.</p>
           <p>BÔNUS: caso você tenha um bom desempenho no treinamento seu currículo fará parte de um Banco de Talentos por 1 ano. Se você não for selecionada terá direito a uma entrevista de feedback.</p>
         </div>
