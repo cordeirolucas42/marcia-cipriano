@@ -26,39 +26,84 @@ export default function Home() {
         <br />
       </section>
 
-      {/* CIRCUITO DA CORAGEM */}
+      {/* PSET - PREPARAÇÃO SOCIOEMOCIONAL PARA O TRABALHO */}
       <section className="bodySection backgroundA">
-        <h2>CIRCUITO DA CORAGEM?</h2>
+        <h2>PSET - PREPARAÇÃO SOCIOEMOCIONAL PARA O TRABALHO</h2>
 
-        <p>É uma metodologia que tem como objetivo trabalhar o músculo da coragem das pessoas que estão vivenciado um processo de transição na vida afetiva ou profissional, ajudado-as a fortalecer a sua vontade para que tenham condição de assumir o compromisso com mudanças de posturas para seguir em frente.</p>
+        <p>É um treinamento completo, intensivo, de 16 horas para jovens adultos que buscam se destacar no universo do trabalho, tem como objetivo desenvolver suas habilidades socioemocionais e abrir portas para o seu futuro profissional.</p>
 
-        <p>Serão 16 horas dedicados a você, uma imersão para desenvolver a coragem para ousar, despertando o entusiamo e evocando a determinação e a predisposição para a ação. </p>
-
-        <p>Vamos nos abrir para um novo ciclo, e para isso eu te convido a trabalhar o músculo da coragem para cuidar do mais precioso que é a sua VIDA!</p>
+        <p>Serão encontros online no formato teórico-vivencial  para você  que deseja ter mais autoconfiança para conquistar seu “lugar ao sol” despertando o entusiasmo e evocando a predisposição para a ação, arriscando-se em novos empreendimentos.</p>
       </section>
 
-      {/* PARA QUEM É DESTINADO ESSE GRUPO */}
+      {/* PARA QUEM É DESTINADO ESSE TREINAMENTO */}
       <section className="bodySection backgroundB">
-        <h2>PARA QUEM É DESTINADO ESSE GRUPO?</h2>
+        <h2>PARA QUEM É DESTINADO ESSE TREINAMENTO?</h2>
 
-        <p>Para as pessoas que estão em crise, sentindo ansiedade, um certo cansaço emocional, desanimadas e com um sentimento de incapacidade mas, ao mesmo tempo, acreditam na mudança e estão cansados de viver nesse limbo.</p>
+        <p>Para jovens adultos (18 a 30 anos) que estão sentindo ansiedade, um certo cansaço emocional, desanimadas, e com um sentimento de insegurança e incapacidade mas, ao mesmo tempo acreditam na mudança e estão cansados de viver nesse limbo.</p>
 
         <p>E o convite é para que você pare de duvidar e APRENDA A NÃO DESISTIR do que você verdadeiramente quer, e assim possa dar o PRÓXIMO PASSO e SEGUIR em frente.</p>
       </section>
 
+      {/* VOCÊ SE IDENTIFICA COM ALGUMA DESSAS SITUAÇÕES */}
+      <section className="bodySection backgroundA">
+        <h2>VOCÊ SE IDENTIFICA COM ALGUMA DESSAS SITUAÇÕES?</h2>
+        <ol>
+          <li>Dificuldade em lidar com crítica</li>
+          <li>Falta de confiança em se apresentar publicamente (apresentação de seminários, TCC, entrevistas, redes sociais e trabalho em grupo)</li>
+          <li>Desejo de descobrir seus potenciais e talentos</li>
+          <li>Dúvidas sobre o caminho a seguir na carreira</li>
+          <li>Desejo de ter mais autonomia e independência</li>
+          <li>Dificuldade em se comunicar de forma eficaz</li>
+          <li>Desejo de ser mais produtivo sem se estressar</li>
+        </ol>
+        <p>Se você se identifica com alguma dessas situações, este treinamento é para você!</p>
+      </section>
+
       {/* CHEGA DE PROCRASTINAR */}
-      <section className="bodySection">
+      <section className="bodySection backgroundB">
         <h2>CHEGA DE PROCRASTINAR</h2>
 
-        <p>Essa IMERSÃO funcionará como um campo de nutrição e suporte para que você possa avançar em novas realidades. Criaremos um ambiente propício para que as coisas aconteçam com dinamismo e respeito ao seu processo. A progressividade e a autorregulação serão categorias que estarão sempre presentes. Cada pessoa tem o seu ritmo e a sua vontade, suas dores e seus recursos que lhe são peculiares. Estarei  te convidando para que não desista, para que você tire o pé do freio e não se paralise mais nessa transição.</p>
+        <p>Vamos iniciar com micropassos até que você possa dar um salto, cuidando da autorregulação, sem desanimar, e chegando ao fim mais fortalecido para seguir em frente. </p>
 
-        <p>Por ser uma caminhante mais experiente, com mais de vinte anos facilitando processos terapêuticos, eu posso ser seu suporte nessa trilha para que você vivencie essa transição com um pouco mais de segurança e menos desconforto. Mas não esqueça que grande parte do processo depende de você mesmo. Olhar para dentro de si é a tarefa mais importante da nossa vida e a melhor referência para nos conectarmos com o que verdadeiramente nos falta. Se você estiver aberto a receber todo o suporte e participar das vivências e desafios propostos, com certeza você irá desapegar de muitas "tralhas" que você carrega e não te servem mais, e que estão servindo como forças restritivas, te impedindo de vivenciar essa transição com mais coragem.</p>
+        <p>Esse treinamento funcionará como um campo de nutrição e suporte para que você possa avançar em novas realidades. Criaremos um ambiente propício para que as coisas aconteçam com dinamismo e respeito ao seu processo.</p>
 
-        <p>Descartando esse excesso, você poderá começar a avançar, criando novas oportunidades em comunhão com a vida, aceitando a vulnerabilidade, se reorientando, se determinando e explorando novos caminhos apesar do medo. Mesmo que a confiança oscile e o pensamento negativo nos visite, vamos ser congruentes com os nossos princípios, objetivos e com bravura e perseverança vamos nos arriscando. Quanto mais nos comprometermos, mais aumentará a nossa intimidade e fé nessa força interior. E é essa força que nos dará a energia que precisamos para criarmos uma nova direção.</p>
+        <p>A progressividade e a autorregulação serão categorias que farão parte do processo. Cada pessoa tem o seu ritmo e a sua vontade, suas dores e seus recursos que lhe são peculiares. Estarei sempre te convidando para que não desista, para que você tire o pé do freio e não se paralise mais nessa transição.</p>
 
-        <p>Se você aceitar esse convite de corpo e alma, muitas mudanças acontecerão.</p>
+        <p>Com estratégias bem definidas e de forma assertiva vamos encontrando novas alternativas e recursos para os problemas, nos capacitando para seguir em frente. “Perder-se não é o problema, o problema é não se reencontrar”.</p>
 
-        <p>Meu papel nessa jornada é te ajudar a trabalhar o músculo da coragem e te convidar sempre a dar o próximo passo, e o seu é começar a agir e confiar no processo.</p>
+        <p>A maior promessa para esse trabalho é que eu não vou medir esforços para te oferecer tudo que você precisar para assumir de forma corajosa e comprometida essa caminhada.</p>
+        
+        <p>"O impossível pode acontecer"</p>
+
+        <p>Se dê essa chance e você verá que um novo caminho vai se abrir. Aceite o desafio e você vai descobrir todo um potencial de ação que mora no seu coração!</p>
+      </section>
+
+      {/* TEMAS QUE SERÃO ABORDADOS NO TREINAMENTO */}
+      <section className="bodySection backgroundA">
+        <h2>TEMAS QUE SERÃO ABORDADOS NO TREINAMENTO</h2>
+        <ol>
+          <li>Autoconhecimento</li>
+          <li>Inteligência emocional e relacional</li>
+          <li>Desenvolvimento de soft skills</li>
+          <li>Empregabilidade e empreendedorismo</li>
+          <li>Equilíbrio entre vida pessoal e profissional</li>
+        </ol>
+      </section>
+
+      {/* METODOLOGIAS E TÉCNICAS DE APRENDIZAGEM */}
+      <section className="bodySection backgroundB">
+        <h2>METODOLOGIAS E TÉCNICAS DE APRENDIZAGEM</h2>
+        
+        <p>Aplicação de um teste de personalidade, estudo de caso, Role-playing, feedback, vivências biocêntricas, visualizações criativas, exposição dialogada, seminários, mentoring, meditação, aprendizagem colaborativa.</p>
+      </section>
+
+      {/* SOBRE O MÉTODO DO MÚSCULO DA CORAGEM */}
+      <section className="bodySection backgroundA">
+        <h2>SOBRE O MÉTODO DO MÚSCULO DA CORAGEM</h2>
+        
+        <p>É baseado nas abordagens da Psicologia de base Humanista, no Pensamento Sistêmico e na Biodança e no Eneagrama.</p>
+
+        <p>Esse método tem como objetivo cultivar a confiança e fortalecer o compromisso com o autoconhecimento e com a fé no processo do viver, acessando a sua essência e seus recursos internos. Aprendendo a receber e a doar apoio externo para ativar todo o potencial de ação, a partir de três pilares, os 3 Vs: Valor, Vitalidade e Vínculo</p>
       </section>
 
       {/* HOJE O CONVITE É SEGUIR */}
@@ -73,7 +118,7 @@ export default function Home() {
 
       {/* ETAPAS */}
       <section className="bodySection backgroundB">
-        <h2>Primeira etapa – VITALIDADE: A coragem para iniciar uma nova jornada.</h2>
+        <h2>Primeira etapa – VITALIDADE: A coragem para iniciar uma nova jornada!</h2>
 
         <p>“Do jeito que está não dá para ficar”</p>
 
@@ -89,7 +134,7 @@ export default function Home() {
       </section>
       <section className="bodySection backgroundA">
 
-        <h2>Segunda etapa – VALOR: A coragem para se recriar.</h2>
+        <h2>Segunda etapa – VALOR: A coragem para se recriar!</h2>
 
         <p>“O impossível pode acontecer”</p>
 
@@ -104,37 +149,21 @@ export default function Home() {
         </ol>
       </section>
       <section className="bodySection backgroundB">
-
-        <h2>Terceira etapa – VÍNCULO: A coragem para seguir em frente, comprometido com a vida.</h2>
+        <h2>Terceira etapa – VÍNCULO: A coragem para seguir em frente, comprometido com a vida!</h2>
 
         <p>“Sinto-me conectado com a vida”</p>
 
         <p>Intenção: Desenvolver a coragem para não desistir e seguir em frente reconhecendo a necessidade do momento, se conectando com o seu projeto e com a sua força, determinação e alegria de viver.</p>
 
         <ol>
-          <li>Visão ampla e foco aguçado: qual é a prioridade agora?</li>
-          <li>Criar uma rede de apoio para dias desafiadores.</li>
-          <li>Empreendimento de tarefas: colocando em ação a sua vontade.</li>
-          <li>Aprender a lidar com as armadilhas que impedem a sua jornada.</li>
-          <li>Celebrar cada ato de realização.</li>
+          <li>Fortalecer o contato, conexão e intimidade consigo mesmo</li>
+          <li>Estimular o sentido de cooperação, ver o sagrado na VIDA, em tudo que acontece</li>
+          <li>Fortalecimento da autoconfiança e confiança no outro e na vida.</li>
+          <li>Desenvolver atitude de dar e receber, buscando sintonia nas convivências.</li>
+          <li>Despertar o sentido de união e solidariedade.</li>
         </ol>
 
-        <p>Seja corajosos se o medo chegar, e ele vai chegar, olhe para ele, acolha e siga o caminho do coração.</p>
-      </section>
-
-      {/* O IMPOSSÍVEL PODE ACONTECER */}
-      <section className="bodySection">
-        <h2>O IMPOSSÍVEL PODE ACONTECER!</h2>
-
-        <p>Se dê essa chance e você verá que um novo caminho vai se abrir. Aceite o desafio e você vai descobrir todo um potencial de ação que mora no seu coração.</p>
-
-        <p>E essa é a jornada que vamos percorrer nesse circuito. A partir dessa vinculação com a vida é que você vai deixando de dar poder ao mundo externo, para dar lugar a mudanças fundamentais que vão gerar grandes aprendizagens para que você descubra o que verdadeiramente é essencial na sua vida.</p>
-
-        <p>A proposta é dar atenção ao que a vida está te pedindo agora e fazer um caminhar com garra e amor no coração.</p>
-
-        <p></p>
-
-        <p>Essa é a verdadeira missão que deveríamos alcançar! Que possamos nos fortalecer e deixar crescer em nós esse desejo genuíno de florescer, sendo a própria vida em movimento para aprendermos a acolher tudo que está acontecendo agora, olhando para a resistência, e soltando qualquer dor ou dificuldade que nos impede de abraçar a vida. Esse é o maior desafio da nossa existência.</p>
+        <p>Vamos fortalecer o Músculo da Coragem para que possamos encarar os desafios que a vida oferece com firmeza e leveza!</p>
       </section>
 
       {/* DEPOIMENTOS */}
@@ -151,16 +180,19 @@ export default function Home() {
         </div>
       </section>
 
-      {/* INVESTIMENTO */}
+      {/* COMO FUNCIONA */}
       <section className="bodySection backgroundA">
         <div className="precoDiv">
-          <h1>Investimento</h1>
+          <h1>Como funciona?</h1>
+          <p>Escolha um plano que mais se encaixa no seu perfil e faça a sua inscrição:</p>
           <div className="precoBox">
             <p className="preco1">Apenas:</p>
             <p className="preco2">R$ 580,00</p>
           </div>
           <div style={{ clear: "both" }}></div>
           <a href="https://wa.me/5585996380213" className="grupoBtn"><Image width="20px" height="20px" style={{ margin: "2px 6px 4px 2px" }} src={wpp} alt="Ícone whatsapp"></Image><span>Inscreva-se!</span></a>
+          <p>Acesso a plataforma online: você terá acesso a todo conteúdo do treinamento, incluindo vídeo aulas, matérias complementares, atividades práticas.</p>
+          <p>BÔNUS: caso você tenha um bom desempenho no treinamento seu currículo fará parte de um Banco de Talentos por 1 ano. Se você não for selecionada terá direito a uma entrevista de feedback.</p>
         </div>
       </section>
 
